@@ -1,4 +1,5 @@
-# Employee_Attrition
+# Employee Attrition
+
 
 We handled the imbalanced data by using some techniques like SMOTE, ADASYN, Tomek Links, SMOTETomek etc.
 
